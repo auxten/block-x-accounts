@@ -1,0 +1,17 @@
+BLACKLIST = [
+    'as13384',
+    'bhabhi78',
+    'charley_ju21590',
+    'goodminess',
+    'keai3344',
+    'LeifHewlet22838',
+    'maoer378',
+    'Merieli10',
+    'MontagueDoris6',
+    'naiping33',
+    'papasae1',
+    'Princes_ji',
+    'sesemao33',
+    'susu520115',
+    'xxaayymjx',
+]
